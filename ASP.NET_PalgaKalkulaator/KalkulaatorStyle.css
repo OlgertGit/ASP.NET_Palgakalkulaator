@@ -1,0 +1,38 @@
+﻿body {
+}
+ div#chb {
+    width: 400px; height: 150px; /* Размеры */
+    background: #EFEFEF; /* Цвет фона */
+    border: 3px solid #fff; /* Белая рамка */
+    border-radius: 10px; /* Радиус скругления */
+    display: inline-block;
+    position:absolute;
+    left: 575px;
+    top:115px;
+    
+   }
+div#kalkulaator {
+    width: 600px; height: 220px; /* Размеры */
+    background: #d1effc; /* Цвет фона */
+    border: 3px solid #fff; /* Белая рамка */
+    border-radius: 10px; /* Радиус скругления */
+    display: inline-block;
+    position:absolute;
+    right:945px;
+    top:7cm;
+}
+div#bruto {
+    width: 200px; height: 100px; /* Размеры */
+    background: #f7f7f7; /* Цвет фона */
+    border: 5px solid #fff; /* Белая рамка */
+    border-radius: 10px; /* Радиус скругления */
+    display: inline-block;
+    position:absolute;
+    top:165px;
+}
+
+footer, hr {
+    position:absolute;
+    top:900px;
+}
+
